@@ -46,20 +46,6 @@ import java.util.ArrayList;
     }
         public void cln3(){
         int a = 3250;
-        int b = 4300;
-        int c = 3500;
-        int d = 3850;
-        trophy3 = a+b+c+d;
-        JavaApp4 jv42 = new JavaApp4();
-        ArrayList<JavaApp5> j6 = new ArrayList<JavaApp5>();
-        j6.add(new JavaApp5("___________________________________\n"));
-        j6.add(new JavaApp5("Lonians            ="+a));
-        j6.add(new JavaApp5("Ken                ="+c));
-        j6.add(new JavaApp5("Zomen              ="+d));
-        j6.add(new JavaApp5("Deuskhan           ="+b));
-        j6.add(new JavaApp5("Jumlah Trophy      ="+trophy3));
-        for(JavaApp5 i: j6){
-            System.out.println(i.getId());
-        }
+ 
     }
     }
